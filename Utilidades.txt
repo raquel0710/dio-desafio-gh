@@ -1,9 +1,0 @@
-Cursos úteis para estudo:
-
-.NET: https://www.youtube.com/playlist?list=PLxd1RHU8YgYkHCbZqtqWuaYHASNERx-Tn
-ReactJS: https://www.youtube.com/watch?v=3ksM5aOYtIc&list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1&index=2
-Redes: https://www.youtube.com/watch?v=5pFJPVg5nbE&list=PL6BTdBqzl1oY9EQ4151rGNEbATMNgX8vK&index=1
-Flutter: https://www.youtube.com/watch?v=2NQUjHZZ9t8&list=PLqdwHeoSjEN-9aGd-RxaS_2cyD_AKT0c_&index=1
-
-Ferramentas úteis para estudo:
-Resoluções de problemas em Javascript: https://www.hackerrank.com/domains/tutorials/10-days-of-javascript
